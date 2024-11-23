@@ -47,8 +47,8 @@ body {
 @media ( max-width: 820px )    {
     .navbar a {
         font-size: 75%;
-        margin-left: 1rem;
-        margin-right: 1rem;
+        margin-left: .5rem;
+        margin-right: .5rem;
     }
 
     .logo {
@@ -59,8 +59,8 @@ body {
 @media (min-width: 1180px) {
     .navbar a {
         font-size: 75%;
-        margin-left: 1rem;
-        margin-right: 1rem;
+        margin-left: .5rem;
+        margin-right: .5rem;
     }
 
     .header {
