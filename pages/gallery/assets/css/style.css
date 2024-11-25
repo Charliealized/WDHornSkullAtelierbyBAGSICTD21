@@ -156,55 +156,7 @@ h3 {
 }
 
 @media (min-width: 1180px) {
-    .navbar a {
-        font-size: 75%;
-        margin-left: 1rem;
-        margin-right: 1rem;
-    }
-
-    .header {
-        height: 1%;
-    }
-
-    .title1 {
-        font-size: 180%;
-        margin-top: 7rem;
-    }
-
-    .column {
-        display: flex;
-        flex-direction: column;
-        gap: 0px;
-        text-align: center;
-    }
-
-    .photo {
-        text-align: center;
-    }
-
-    .img1 {
-        height: 450px;
-    }
-
-    .title {
-        font-size: 1rem;
-        margin-bottom: 1%;
-    }
-
-    .gallery    {
-        display: flex;
-        flex-direction: column;
-        gap: 0px;
-        text-align: center;
-    }
-
-    h2 {
-        font-size: 90%;
-    }
-
-    h3 {
-        font-size: 70%;
-    }
+    
 }
 
 
