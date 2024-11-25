@@ -121,7 +121,7 @@ h3 {
 
     .column {
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
         gap: 0px;
         text-align: center;
     }
@@ -141,7 +141,7 @@ h3 {
 
     .gallery    {
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
         gap: 0px;
         text-align: center;
     }
@@ -173,7 +173,7 @@ h3 {
 
     .column {
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
         gap: 0px;
         text-align: center;
     }
@@ -193,7 +193,7 @@ h3 {
 
     .gallery    {
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
         gap: 0px;
         text-align: center;
     }
