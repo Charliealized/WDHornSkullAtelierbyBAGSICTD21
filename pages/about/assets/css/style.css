@@ -96,27 +96,3 @@ body {
         font-size: 100%;
     }
 }
-
-@media (min-width: 1180px) {
-    .navbar a {
-        font-size: 75%;
-        margin-left: 1rem;
-        margin-right: 1rem;
-    }
-
-    .header {
-        height: 1%;
-    }
-
-    .logo {
-        height: 18rem;
-    }
-
-    h1 {
-        font-size: 200%;
-    }
-
-    h2 {
-        font-size: 100%;
-    }
-}
