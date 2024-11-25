@@ -114,28 +114,3 @@ h3 {
     
 }
 
-@media (min-width: 1180px) {
-    .navbar a {
-        font-size: 75%;
-        margin-left: 1rem;
-        margin-right: 1rem;
-    }
-
-    .header {
-        height: 1%;
-    }
-
-    h1 {
-        font-size: 3rem;
-    }
-
-    h2 {
-        font-size: 1rem;
-    }
-
-    h3 {
-        margin-top: 2rem;
-        font-size: 1rem;
-    }
-    
-}
